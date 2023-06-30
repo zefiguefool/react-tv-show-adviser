@@ -1,0 +1,10 @@
+clé https://www.themoviedb.org/settings/api : 371fcc610adfa5f8e8c7787467c1430d
+
+try catch throw
+https://codesandbox.io/s/try-catch-throw-fr-pwofrj?file=/src/index.js
+
+promesses
+https://codesandbox.io/s/promises-fr-ubndoq?file=/src/index.js
+
+nettoyage e useEffext 
+https://codesandbox.io/s/use-effect-cleanup-fr-n0uqou?file=/src/App.js
